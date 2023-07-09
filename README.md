@@ -1,1 +1,1 @@
-# fkut_news
+# flut_news
